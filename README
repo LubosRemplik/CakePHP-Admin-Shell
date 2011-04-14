@@ -1,0 +1,5 @@
+CakePHP shell script used for mysqldump with remote backup
+
+Cakeftp plugin required. https://github.com/LubosRemplik/cakeftp
+
+More info about usage run `cake admin help` after installation
