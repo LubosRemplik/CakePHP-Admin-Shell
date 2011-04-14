@@ -1,0 +1,8 @@
+<?php
+############################################################################
+# Backup
+############################################################################
+$config['Backup']['Ftp']['host'] = 'remote-host-name-or-ip-address';
+$config['Backup']['Ftp']['username'] = 'ftp-username';
+$config['Backup']['Ftp']['password'] = 'ftp-password';
+$config['Backup']['Ftp']['path'] = 'path/to/dumps/folder';
